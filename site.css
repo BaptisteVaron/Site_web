@@ -1,0 +1,13 @@
+h1{
+  text-align: center;
+  color: orangered;
+}
+nav ul{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  list-style-type: none;
+  background-color: orangered;
+  color: white;
+  margin: 5em;
+  padding: 2em;
+}
